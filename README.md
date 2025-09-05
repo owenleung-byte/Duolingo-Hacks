@@ -4,7 +4,7 @@
 
 #### Made by rxzyx (rzx). This is purley for education purposes.
 - 📫 Have a problem? **Just write an issue and I will do my best to respond.**
-
+_ T@RXYZ his another person RXYZ please ,make this effective through Bookmark
 ## How To Use:
 
 - Simply open the file that sounds more interesting, click the "Raw" button, then copy the code and paste it into the chrome console when you're on duolingo.
